@@ -1,0 +1,11 @@
+.header {
+  color: #fff;
+  padding: 15px;
+  display: flex;
+  background: #128a88;
+  box-shadow: 3px 3px 5px 0px rgba(50, 50, 50, 0.55);
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}

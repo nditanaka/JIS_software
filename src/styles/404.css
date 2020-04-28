@@ -1,0 +1,26 @@
+img.resize {
+  width: 540px; /* you can use % */
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.lostpage {
+  display: block;
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+  /* width: 50%; */
+  /* display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; */
+  text-align: center;
+}
+.pagecontent {
+  margin-top: 12vh;
+}
+.container {
+  text-align: center;
+}
